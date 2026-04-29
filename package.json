@@ -1,0 +1,9 @@
+{
+  "name": "rdf-updates",
+  "version": "1.0.0",
+  "description": "Rebel DeFi Daily Updates",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
