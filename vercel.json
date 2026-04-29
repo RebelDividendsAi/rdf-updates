@@ -2,7 +2,7 @@
   "version": 2,
   "name": "rdf-updates",
   "builds": [
-    { "src": "*.html", "use": "@vercel/static" }
+    { "src": "**/*.html", "use": "@vercel/static" }
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }
